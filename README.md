@@ -2,7 +2,7 @@
 
 <p align="center">
 🔭 Currently working on <strong>Flutter</strong> <br>
-🌱 Learning <strong>Backend Development</strong> <br>
+🌱 Learning <strong>fronted Development</strong> <br>
 💬 Ask me anything about <strong>Flutter</strong> <br>
 🌐 My website: <a href="https://nasirullah24.net">nasirullah24.net</a> <br>
 ⚡ Fun fact: I'm a teen developer on a coding journey 🚀
